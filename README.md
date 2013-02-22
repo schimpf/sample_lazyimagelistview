@@ -1,4 +1,6 @@
-sample_lazyimagelistview
-========================
+sample_autoclosedialog
+======================
 
-A listview loading and caching images on the when needed
+Example showing a dialog in android closing itself after some time
+
+http://schimpf.es/autoclose-dialog-after-some-time
